@@ -1,3 +1,3 @@
 # Practice-programs
-A sest of general programs for practice.
+A set of general programs for practice.
 
