@@ -1,5 +1,5 @@
 // iterator reference
-
+// the iterator reference is wrt to strings. The following is valid using other iterable template structures like vectors, sets etc.
 #include <bits/stdc++.h>
 
 bool checkIfRotate(string s1,string s2){
